@@ -1,0 +1,22 @@
+#exampleAttr {
+  background-color: aquamarine;
+  padding: 1rem;
+}
+
+#exampleSize {
+  margin-top: 10px;
+  background-color: burlywood;
+  border: 3px solid slategray;
+  width: 50%;
+  padding: 20px;
+}
+
+.draw-card {
+  height: 300px;
+  width: 100%;
+  background-color: khaki;
+}
+
+/* .new-card {
+  background-color: hotpink;
+} */
